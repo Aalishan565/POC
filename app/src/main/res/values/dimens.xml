@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Common Font Size for Application -->
+
+    <dimen name="text_size_28px">28sp</dimen>
+    <dimen name="text_size_20px">20sp</dimen>
+    <dimen name="text_size_18px">18sp</dimen>
+    <dimen name="text_size_16px">16sp</dimen>
+    <dimen name="text_size_15px">15sp</dimen>
+    <dimen name="text_size_14px">14sp</dimen>
+    <dimen name="text_size_13px">13sp</dimen>
+    <dimen name="text_size_12px">12sp</dimen>
+
+    <!-- Common Font Size for Application -->
+
+
+    <!-- Common Dimens for Application -->
+    <dimen name="common_layout_dimen_350">350dp</dimen>
+    <dimen name="common_layout_dimen_317">317dp</dimen>
+    <dimen name="common_layout_dimen_300">300dp</dimen>
+    <dimen name="common_layout_dimen_280">280dp</dimen>
+    <dimen name="common_layout_dimen_230">230dp</dimen>
+    <dimen name="common_layout_dimen_200">200dp</dimen>
+
+    <dimen name="common_layout_dimen_150">150dp</dimen>
+    <dimen name="common_layout_dimen_130">130dp</dimen>
+    <dimen name="common_layout_dimen_100">100dp</dimen>
+    <dimen name="common_layout_dimen_75">75dp</dimen>
+
+    <dimen name="common_layout_dimen_70">70dp</dimen>
+    <dimen name="common_layout_dimen_60">60dp</dimen>
+    <dimen name="common_layout_dimen_50">50dp</dimen>
+    <dimen name="common_layout_dimen_40">40dp</dimen>
+    <dimen name="common_layout_dimen_35">35dp</dimen>
+    <dimen name="common_layout_dimen_30">30dp</dimen>
+    <dimen name="common_layout_dimen_25">25dp</dimen>
+    <dimen name="common_layout_dimen_20">20dp</dimen>
+    <dimen name="common_layout_dimen_18">18dp</dimen>
+
+    <dimen name="common_layout_dimen_15">15dp</dimen>
+    <dimen name="common_layout_dimen_12">12dp</dimen>
+    <dimen name="common_layout_dimen_10">10dp</dimen>
+    <dimen name="common_layout_dimen_8">8dp</dimen>
+    <dimen name="common_layout_dimen_5">5dp</dimen>
+    <dimen name="common_layout_dimen_1">1dp</dimen>
+    <dimen name="common_layout_dimen_0">0dp</dimen>
+
+
+    <!-- Common Dimens for Application -->
+
+</resources>
